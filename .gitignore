@@ -8,3 +8,4 @@ getting-started/*
 duck_links.txt
 cat_links.txt
 .github
+.gitignore
